@@ -1,15 +1,21 @@
 # utl-altair-slc-imputing-missing-variables-subproces-k-nearest-neighbors-knn
-Altair slc imputing missing variables subproces-k-nn
     %let pgm=utl-altair-slc-imputing-missing-variables-subproces-k-nearest-neighbors-knn;
 
     %stop_submission;
 
     Altair slc imputing missing variables subproces-k-nn
 
+    Too long to post here see github
+
+    github
+    https://github.com/rogerjdeangelis/utl-altair-slc-imputing-missing-variables-subproces-k-nearest-neighbors-knn
+
     Not sure this helps. If you provide sample input data I can rerun?.
     I am a little out of my comfort zone.
 
     Two Solutions Python and R
+      1 Python
+      2 R
 
     K-Nearest Neighbors (kNN) is a non-parametric supervised machine learning
     algorithm used for classification and regression tasks.
